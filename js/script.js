@@ -3,32 +3,32 @@
 var quotes = [
 	{
 	quote: "Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.",
-	source: "Dr. Seuss"
+	source: "Sagar"
 	},
 	{
 	quote: "This too, shall pass.",
-	source: "Anonymous"
+	source: "Sagar"
 	},
 	{
 	quote: "Keep your eyes on the stars and your feet on the ground.",
-	source: "Theodore Roosevelt"
+	source: "Sagar"
 	},
 	{
 	quote: "The only person you should try to be better than is the person you were yesterday.",
-	source: "Anonymous"
+	source: "Sagar"
 	},
 	{
 	quote: "Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life; define yourself.",
-	source: "Harvey Fierstein"
+	source: "Sagar"
 	},
 	{
 	quote: "Faith is the art of holding on to things your reason has once accepted, in spite of your changing moods.",
-	source: "C.S. Lewis"
+	source: "Sagar"
 	},
 	{
 	quote: "A man who flies from his fear may find that he has only taken a shortcut to meet it.",
 	source: "Sador", 
-	citation: "Children of Húrin" 
+	citation: "Sagar" 
 	},
 	{
 	quote:  "Life's too mysterious to take too serious.",
@@ -45,7 +45,7 @@ var quotes = [
 	{
 	quote: "You can't go around building a better world for people. Only people can build a better world for people. Otherwise it's just a cage.",
 	source: "Terry Pratchett", 
-	citation: "Witches Abroad",
+	citation: "Sagar",
 	year: "1991" 
 	},
 	{
@@ -56,12 +56,12 @@ var quotes = [
 	{
 	quote: "It's not about how hard you can hit; it's about how hard you can get hit and keep moving forward.",
 	source: "Rocky Balboa",
-	citation: "Rocky",
+	citation: "Sagar",
 	year: "1976"
 	},
 	{
 	quote: "More fuck yeah, less fuck that.",
-	source: "Anonymous"
+	source: "Sagar"
 	},
 	{
 	quote: "If you want to go fast, go alone. If you want to go far, go together.",
@@ -69,15 +69,15 @@ var quotes = [
 	},
 	{
 	quote: "It's OK to not be OK, as long as you don't stay that way.",
-	source: "Anonymous"
+	source: "Sagar"
 	},
 	{
 	quote: "I can be changed by what happens to me but I refuse to be reduced by it.",
-	source: "Maya Angelou"
+	source: "Sagar"
 	},
 	{
 	quote: "Believe you can and you're halfway there.",
-	source: "T. Roosevelt"
+	source: "Sagar"
 	},
 	{
 	quote: "May I never be complete. May I never be content. May I never be perfect.",
@@ -116,7 +116,7 @@ var quotes = [
 	},
 	{
 	quote: "Do not set yourself on fire in order to keep others warm.",
-	source: "Anonymous"
+	source: "Sagar"
 	},
 	{
 	quote: "The way I see it, every life is a pile of good things and bad things. The good things don't always soften the bad things, but vice versa, the bad things don't always spoil the good things and make them unimportant.",
@@ -129,11 +129,11 @@ var quotes = [
 	},
 	{
 	quote: "Ask yourself if what you're doing today will get you closer to where you want to be tomorrow.",
-	source: "Anonymous"
+	source: "Sagar"
 	},
 	{
 	quote: "Life may not be the party we hoped for, but while we're here, we should dance.",
-	source: "Anonymous"
+	source: "Sagar"
 	},
 	{
 	quote: "Never cowardly or cruel. Never give up, never give in.",
@@ -145,7 +145,7 @@ var quotes = [
 	},
 	{
 	quote: "In 20 years, you probably won't even remember this.",
-	source: "Anonymous"
+	source: "Sagar"
 	},
 	{
 	quote: "Love all, trust a few, do wrong to none.",
