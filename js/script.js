@@ -90,11 +90,11 @@ var quotes = [
 	{
 
 	quote: "Those who don't believe in magic will never find it.",
-	source: "Roald Dahl"
+	source: "Sagar"
 	},
 	{
 	quote: "There is no elevator to success  you have to take the stairs.",
-	source: "Anonymous"
+	source: "Sagar"
 	},
 	{
 	quote: "Plant your garden and decorate your own soul, instead of waiting for someone to bring you flowers.",
